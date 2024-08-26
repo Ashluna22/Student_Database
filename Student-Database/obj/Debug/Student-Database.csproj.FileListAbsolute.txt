@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Student-Database\Student-Database\obj\Debug\Student-Database.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Student-Database\Student-Database\obj\Debug\Student-Database.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Student-Database\Student-Database\bin\Debug\Student-Database.exe.config
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Student-Database\Student-Database\bin\Debug\Student-Database.exe
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Student-Database\Student-Database\bin\Debug\Student-Database.pdb
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Student-Database\Student-Database\obj\Debug\Student-Database.exe
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Student-Database\Student-Database\obj\Debug\Student-Database.pdb
